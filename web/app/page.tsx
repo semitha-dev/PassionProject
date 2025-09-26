@@ -14,7 +14,7 @@ export default function note(){
 
      <div className="flex justify-center items-center h-screen relative -translate-y-10">
   <Link
-    href="/login"
+    href="/auth/sign-up"
     className="bg-cyan-400 text-white px-6 py-3 rounded shadow-lg border-b-4 border-cyan-600 active:border-b-0 active:translate-y-1 transition-all duration-150"
   >
     Get Started
